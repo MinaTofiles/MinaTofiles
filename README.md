@@ -44,7 +44,7 @@
 
 <div align="center">
   <h2> My Stats </h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minasamy9090&show_icons=true&theme=dark&locale=en&layout=compact" alt="minasamy9090" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minasamy9090&theme=dark" alt="minasamy9090" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MinaTofiles&show_icons=true&theme=dark&locale=en&layout=compact" alt="MinaTofiles" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MinaTofiles&theme=dark" alt="MinaTofiles" /></p>
 </div>
 
